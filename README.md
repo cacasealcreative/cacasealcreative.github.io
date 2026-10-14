@@ -1,4 +1,4 @@
-# Portofolio Syahrul Adi Mustofa — Pink Theme
+# Portofolio Cacaseal Creative — Pink Theme
 
 Website portofolio statis yang siap dipublikasikan menggunakan **GitHub Pages**. Tidak memerlukan framework, build tools, atau backend.
 
